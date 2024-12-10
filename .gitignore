@@ -52,6 +52,7 @@ coverage.xml
 .pytest_cache/
 cover/
 shared_volume/
+logs/
 
 # Translations
 *.mo
@@ -75,7 +76,7 @@ docs/_build/
 
 # PyBuilder
 .pybuilder/
-target/
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
